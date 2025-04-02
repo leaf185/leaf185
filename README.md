@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a student in Bioinformatics & Computational Biology at Unversity Bern. I am interested to learn more about different areas of this vast field, especially Modelling applications of Machine Learning techniques.
 <!--
 **leaf185/leaf185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
